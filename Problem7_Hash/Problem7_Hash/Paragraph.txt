@@ -1,0 +1,1 @@
+the first law of computer science: every problem is solved by yet another indirection
